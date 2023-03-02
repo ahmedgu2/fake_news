@@ -2,12 +2,12 @@
 Fake News Detection - Robsutness against adversarial attacks
 
 
-## Prepare Environment:
+## Install Environment:
 ```
 conda env create -n "nlp_project" -f environment
 ```
 
-To save current environment:
+To save working environment:
 ```
 conda env export > envrionment.yaml
 ```
