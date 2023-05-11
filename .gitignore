@@ -130,8 +130,10 @@ dmypy.json
 
 #data folder
 data/
-models/
+
 notebooks/mlruns
+models/kaggle_dataset_models/
+models/twitter_dataset_models/
 outputs/
 checkpoints/
 multirun/
