@@ -1,4 +1,4 @@
-name: nlp_project
+name: nlp_project2
 channels:
   - pytorch
   - huggingface

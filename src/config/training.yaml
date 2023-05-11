@@ -1,0 +1,11 @@
+dataset:
+  name: kaggle_fake_news
+  path: data/raw/kaggle_fake_news/
+
+model:
+  model_name: distilbert-base-uncased
+  model_artifacts: model_artifacts/
+  trained_model: mlruns/0/0d522e876c104bf1a08ad1d908c4e612/artifacts/checkpoint-4800/artifacts/checkpoint-4800
+
+
+#gpt2, roberta-base, xlnet-base-cased, bert-base-uncased, 

@@ -132,3 +132,10 @@ dmypy.json
 data/
 models/
 notebooks/mlruns
+outputs/
+checkpoints/
+multirun/
+mlruns/
+adversarial examples.rtf
+model_artifacts/
+logs/
