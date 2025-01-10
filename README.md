@@ -1,4 +1,4 @@
-# Uncovering the Truth: Leveraging Adversarial Attacks and Transformers for Effective Fake News Detection
+# Leveraging Adversarial Attacks and Transformers for Effective Fake News Detection
 Fake News Detection - Robsutness against adversarial attacks
 
 
